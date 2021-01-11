@@ -1,0 +1,33 @@
+:root{
+    --mainColor: rgb(209, 192, 208); 
+    --secondaryColor:   rgb(250, 248, 239);
+    --borderColor: #9fd1dd;
+    
+    --secondaryText : rgb(75, 78, 82);
+    --mainText: #017592;
+    --hightingImpLinks: rgb(160, 57, 163);
+    --themeDotBorder: #458a9b;
+    --previewBg: #FAF6ED; 
+   --previewShadow : #f0e1b0;
+   --butnColor:  #017592;
+   --backClr:  #ffffff;
+   --profPicBorder: #017592;
+   --postBorders: #017592;
+   --postBackground: white;
+   --navButtonClrOnHover: #f0e1b0;
+   --navFontClrOnHover:rgb(160, 57, 163);
+   --skillBackground: #f3e5b8;
+   --resumeButton: #9fd1dd;
+   --profilePicColor: rgba(201, 69, 192, 0.486); 
+   --borderSize: 20px;
+   --imageTintWidth : 300px;
+    --imageTintHeight : 420px;
+    --mainContainerWidth: 1300px;
+    --jobButtonWrapper:  rgb(209, 192, 208); 
+    --roleDescBack: rgb(209, 192, 208); 
+    --jobButtonBackground: rgb(209, 192, 208); 
+    --navLinkColor: rgb(209, 192, 208); 
+    --jobButtonClick: white;
+    --tintColor: #f0e1b015;
+
+}

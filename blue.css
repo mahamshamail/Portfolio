@@ -1,0 +1,29 @@
+:root{
+    --mainColor: #00173b; 
+    --secondaryColor:  #071e44 ; 
+    --borderColor: #b09cf7 ;
+
+    --secondaryText : #e7e3f8;
+    --mainText: #ddb9ff ;
+    --hightingImpLinks: #ff5fca;
+    --themeDotBorder:#e8a1f1;
+    --previewBg: #071e44; 
+   --previewShadow : #cabef3;
+   --butnColor: #2674bd;
+    --backClr: #071e44;
+    --profPicBorder: #335b9c;
+    --postBorders: #b09cf7; 
+    --postBackground: #314b78;
+    --navButtonClrOnHover: #0a295c;
+   --navFontClrOnHover: #e8a1f1;
+   --skillBackground: #00519c;
+   --resumeButton: #9fd1dd;
+   --borderSize: 0px;
+   --tintiColor: #b09cf77c;
+   --mainContainerWidth: 1300px;
+   --navLinkColor: #071e44 ; 
+   --jobButtonBackground: #00519c;
+   --roleDescBack:  #00519c;
+   --jobButtonClick: white;
+}
+

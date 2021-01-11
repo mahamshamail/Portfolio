@@ -1,0 +1,22 @@
+:root{
+    --mainColor:  #444444;
+    --secondaryColor: #000000; 
+
+    --borderColor: #dba81b8e;
+
+    --secondaryText : rgb(255, 255, 255);
+    --mainText: rgb(255, 255, 255);
+    --hightingImpLinks: #ffd000;
+    --themeDotBorder: #ffffff;
+    --previewBg: #000000a8; 
+   --previewShadow : rgba(255, 255, 255, 0.116) ; ;
+   --butnColor:  #dba81b8e;
+   --backClr: black;
+    --profPicBorder: rgba(255, 255, 255, 0.212);
+    --postBorders: white; 
+    --postBackground: #000000; 
+    --navButtonClrOnHover: #000000;
+   --navFontClrOnHover: #ffffff;
+   --skillBackground: #dba81b8e;
+   --resumeButton: #45736e; 
+}

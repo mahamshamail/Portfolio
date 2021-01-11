@@ -1,0 +1,21 @@
+:root{
+    --mainColor: #c6d7e4e0; 
+    --secondaryColor:  #edece8; 
+
+    --borderColor: #1d97cf83;
+
+    --secondaryText : #466283;
+    --mainText: #072b52be;
+    --hightingImpLinks: #008aca;
+    --themeDotBorder: #178fd6;
+    --previewBg: #ffffffd5; 
+   --previewShadow : #c6d7e4e0;
+   --butnColor:  #178fd6;
+    --profPicBorder: white;
+    --postBorders: #178fd6; 
+    --postBackground: white;
+    --navButtonClrOnHover: #fffdfd;
+   --navFontClrOnHover: #178fd6;
+   --skillBackground: white;
+   --resumeButton: #45736e; 
+}
